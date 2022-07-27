@@ -1,4 +1,1 @@
-# alura-front-end
-## Links para testes
-* https://pedrofigueiredojs.github.io/alura-plus/
-* https://alura-plus-two-theta.vercel.app/
+# Curso de HTML5 e CSS3 da Alura
